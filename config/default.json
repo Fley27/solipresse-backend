@@ -1,0 +1,5 @@
+{
+	"mongoUri": "mongodb+srv://solipresse:solipresse@cluster0.bbzqt.mongodb.net/Solipresse?retryWrites=true&w=majority",
+	"jwtSecret": "Encrypt Data String For Solipresse"
+	
+}
